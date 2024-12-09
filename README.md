@@ -4,9 +4,9 @@ This is a boilerplate ready to start working on programming good practices.
 
 ## Properties
 
-Java version: 18
+Java version: 21
 
-Gradle version: 7.5
+Gradle version: 8.11
 
 Build project:
 - ./gradlew build
@@ -19,7 +19,7 @@ Build project:
   - java --version
 
 - Update Java version:
-  - Download the JDK (version 17 right now)
+  - Download the JDK (version 21 right now)
   - Remember to adjust Intellij settings File > Project Structure > Project
 
 ---
