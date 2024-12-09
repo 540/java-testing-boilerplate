@@ -13,6 +13,10 @@ Build project:
 
   :warning: :warning: **Build will fail because of tests, this is done in purpose, have a look at them!**  
 
+Adjust intelliJ:
+- Adjust project seetings in File > Project Structure > Project
+- Adjust gradle in Preferences > Gradle > Gradle JVM
+
 ---
 
 - Get Java version:
@@ -20,7 +24,6 @@ Build project:
 
 - Update Java version:
   - Download the JDK (version 21 right now)
-  - Remember to adjust Intellij settings File > Project Structure > Project
 
 ---
 
